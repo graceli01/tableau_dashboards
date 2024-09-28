@@ -1,7 +1,7 @@
-# Tableau Dashboard Demonstration
+# Tableau Dashboard Demonstration 📈
 
-**Hi! Welcome to Grace Li's Tableau Reprository :white_heart:
-<br> In here, I demonstrated some of sample dashboards I have been built in the past, including e-commerce, marketing, operations. Enjoy!**
+Hi! Welcome to **Grace Li**'s Tableau Reprository :white_heart:
+<br> In here, I demonstrated some of sample dashboards I have been built in the past, including e-commerce, marketing, operations. Enjoy!
 
 ### ► 🌐 E-commerce Sales Dashboard [[link]](https://public.tableau.com/views/EcommerceSalesDashboard_17275144328450/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -12,4 +12,4 @@
   height='600px' width='600px' toolbar='bottom' hide-tabs>
 </tableau-viz>
 
-------------
+
