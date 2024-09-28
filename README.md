@@ -1,7 +1,7 @@
 # Tableau Dashboard Demonstration 📈
 
 Hi! Welcome to **Grace Li**'s Tableau Reprository :white_heart:
-<br> In here, I demonstrated some of sample dashboards I have been built in the past, including e-commerce, marketing, operations. Enjoy!
+<br> In here, I demonstrated some of sample dashboards I have been built in the past, including e-commerce, marketing, and operations. Enjoy!
 
 ```diff
 # Note: The images might have been distorted because of embedding. For better visualization, please refer to the link to see the full snapshot!
