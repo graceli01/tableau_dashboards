@@ -26,4 +26,9 @@ Hi! Welcome to **Grace Li**'s Tableau Reprository :white_heart:
 <img width="1382" alt="image" src="https://github.com/user-attachments/assets/084f8629-c06a-4cfd-8b6d-2f342795d98f">
 
 
+ 🚦 KPI
+⬤ Above  ⬤ Below 
+▲ 0.00%; ▼ -0.00%;
+
+
 
